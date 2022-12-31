@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1041624978220",
+    "project_id": "chia-316911",
+    "storage_bucket": "chia-316911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041624978220:android:096bd4a6c6c7b254405289",
+        "android_client_info": {
+          "package_name": "com.app.wearchia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041624978220-51094k42mj6pajc79dak87vdv3kjks9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.wearchia",
+            "certificate_hash": "31b30ee9c666cc3140bc8dc2f8c505cde4e0e4f3"
+          }
+        },
+        {
+          "client_id": "1041624978220-tknhfdg09222h86j61ac7fmuak8di5ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa3lxwhBWIYVzXRbpdCKfExRaYsGGUgA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041624978220-slhipgf049fcc47ttmu2f7tqaacel3td.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041624978220-5urt9l81cqjuu743lj8902ilg99g526q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wearchia.chia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

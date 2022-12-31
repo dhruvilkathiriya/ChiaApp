@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1041624978220-bhjm1u4vccd2fadnejc98nfehhd2t5la.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1041624978220-bhjm1u4vccd2fadnejc98nfehhd2t5la</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1041624978220-9uvd4vkt9t81fm0soqs9l167eg12o5ks.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj2CXeXg6o5aKO8rsw94Z-YkiTqCs7jSc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1041624978220</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.wearchia</string>
+	<key>PROJECT_ID</key>
+	<string>chia-316911</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chia-316911.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1041624978220:ios:5accda7b0dbe5741405289</string>
+</dict>
+</plist>
